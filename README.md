@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋 I'm Daniel Huang
 
-<!--
-**Daniel1443/daniel1443** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSCS @ NYU Courant  
+📊 Background in Statistics  
+💻 Former Engineer @ MediaTek  
 
-Here are some ideas to get you started:
+## Interests
+- AI Systems | Hardware/Software Co-Design
+- Machine Learning
+- Statistical Modeling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+Python | C | PyTorch | CUDA |Scikit-learn | Statistics
+
+## Skills
+
+[![Python](https://skillicons.dev/icons?i=python,pytorch,sklearn,c,cuda,linux,git)](https://skillicons.dev)
+[![PyTorch](https://skillicons.dev/icons?i=python,pytorch,sklearn,c,cuda,linux,git)](https://skillicons.dev)
+[![CUDA](https://skillicons.dev/icons?i=python,pytorch,sklearn,c,cuda,linux,git)](https://skillicons.dev)
+[![C](https://skillicons.dev/icons?i=python,pytorch,sklearn,c,cuda,linux,git)](https://skillicons.dev)
+[![docker](https://skillicons.dev/icons?i=python,pytorch,sklearn,c,cuda,linux,git)](https://skillicons.dev)
+[![Linux](https://skillicons.dev/icons?i=python,pytorch,sklearn,c,cuda,linux,git)](https://skillicons.dev)
+[![Git](https://skillicons.dev/icons?i=python,pytorch,sklearn,c,cuda,linux,git)](https://skillicons.dev)
+[![Statistics](https://skillicons.dev/icons?i=python,pytorch,sklearn,c,cuda,linux,git)](https://skillicons.dev)
+
