@@ -22,7 +22,6 @@ I am interested in building **efficient AI systems**, combining machine learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
 <br>
 
 ### Systems
@@ -48,7 +47,7 @@ Optimized the **3D Gaussian Splatting rendering pipeline in C/C++**, improving m
 
 # Research
 
-Currently working at **NYU SAI Lab**, focusing on accelerating **3D Gaussian Splatting inference** and exploring hardware-aware optimizations for efficient AI systems.
+Currently working at **NYU System & Artificial Intelligence (SAI) lab**, focusing on accelerating **3D Gaussian Splatting inference** and exploring hardware-aware optimizations for efficient AI systems.
 
 ---
 
