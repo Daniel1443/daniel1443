@@ -2,19 +2,27 @@
 
 🎓 M.S. Computer Science @ NYU Courant  
 📊 Previously M.S. Statistics @ Purdue  
-💻 Former Engineer @ MediaTek
+💻 Former Engineer @ MediaTek  
 
-## Interests
+I am interested in building **efficient AI systems**, combining machine learning, systems optimization, and hardware-aware model design.
+
+---
+
+# Interests
+
 - AI Systems and Hardware/Software Co-Design
-- Machine Learning
+- Efficient Machine Learning
 - Statistical Modeling
 
-## Languages & Tools
+---
+
+# Languages & Tools
 
 ### AI / ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
 <br>
 
 ### Systems
@@ -23,13 +31,29 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## Featured Projects
+---
+
+# Featured Projects
 
 ### 🤖 Transformer-based Language Model
-Implemented a Transformer-based language model in **PyTorch** to understand the fundamentals of generative AI and attention mechanisms. Optimized the model to reduce inference latency and computational cost for real-time GPU execution.
+Implemented a Transformer-based language model in **PyTorch** to understand the fundamentals of generative AI and attention mechanisms. Optimized inference latency and computational cost for real-time GPU execution.
 
 ### ⚡ Hardware-Aware LLM Pruning and Quantization
-Developed an efficient LLM inference pipeline integrating **2:4 structured pruning and INT8 quantization**. Performed kernel-level profiling and evaluated sparsity formats to improve throughput and reduce memory footprint on GPU architectures.
+Developed a hardware-aware inference pipeline integrating **2:4 structured pruning and INT8 quantization**. Performed kernel-level profiling to evaluate sparsity formats and improve GPU throughput.
 
-### 🎥 Accelerating 3D Gaussian Splatting Inference
-Optimized the **3D Gaussian Splatting rendering pipeline in C/C++**, improving memory layout and cache locality for edge deployment. Performed cycle-level profiling and proposed ISA-level instruction extensions to accelerate rendering performance.
+### 🎥 Accelerating 3D Gaussian Splatting
+Optimized the **3D Gaussian Splatting rendering pipeline in C/C++**, improving memory layout and cache locality for edge deployment. Performed cycle-level profiling and proposed ISA-level optimizations.
+
+---
+
+# Research
+
+Currently working at **NYU SAI Lab**, focusing on accelerating **3D Gaussian Splatting inference** and exploring hardware-aware optimizations for efficient AI systems.
+
+---
+
+# Connect with me
+
+📧 danny2717828@gmail.com  
+🔗 https://www.linkedin.com/in/sz-je-h-100b36347/  
+💻 https://github.com/Daniel1443
