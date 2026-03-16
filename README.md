@@ -10,16 +10,7 @@
 - Statistical Modeling
 
 ## Skills
-Python | C | PyTorch | CUDA |Scikit-learn | Statistics
 
-## Skills
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,c,linux,git,docker)](https://skillicons.dev)
 
-[![Python](https://skillicons.dev/icons?i=python,pytorch,sklearn,c,cuda,linux,git)](https://skillicons.dev)
-[![PyTorch](https://skillicons.dev/icons?i=python,pytorch,sklearn,c,cuda,linux,git)](https://skillicons.dev)
-[![CUDA](https://skillicons.dev/icons?i=python,pytorch,sklearn,c,cuda,linux,git)](https://skillicons.dev)
-[![C](https://skillicons.dev/icons?i=python,pytorch,sklearn,c,cuda,linux,git)](https://skillicons.dev)
-[![docker](https://skillicons.dev/icons?i=python,pytorch,sklearn,c,cuda,linux,git)](https://skillicons.dev)
-[![Linux](https://skillicons.dev/icons?i=python,pytorch,sklearn,c,cuda,linux,git)](https://skillicons.dev)
-[![Git](https://skillicons.dev/icons?i=python,pytorch,sklearn,c,cuda,linux,git)](https://skillicons.dev)
-[![Statistics](https://skillicons.dev/icons?i=python,pytorch,sklearn,c,cuda,linux,git)](https://skillicons.dev)
-
+Machine Learning · CUDA · Statistical Modeling
