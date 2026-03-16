@@ -1,8 +1,8 @@
 # Hi 👋 I'm Daniel Huang
 
-🎓 MSCS @ NYU Courant  
-📊 Background in Statistics  
-💻 Former Engineer @ MediaTek  
+🎓 M.S. Computer Science @ NYU Courant  
+📊 Previously M.S. Statistics @ Purdue  
+💻 Former Engineer @ MediaTek
 
 ## Interests
 - AI Systems | Hardware/Software Co-Design
