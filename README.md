@@ -4,8 +4,8 @@
 📊 Previously M.S. Statistics @ Purdue  
 💻 Former Engineer @ MediaTek  
 
-I am interested in building **efficient AI systems**, combining machine learning, systems optimization, and hardware-aware model design.
-
+I work at the intersection of **AI systems, semiconductor hardware, and statistics**.  
+My work focuses on building **efficient machine learning systems** through hardware-aware model design and systems optimization.
 ---
 
 # Interests
