@@ -55,5 +55,6 @@ Currently working at **NYU System & Artificial Intelligence (SAI) lab**, focusin
 # Connect with me
 
 📧 danny2717828@gmail.com  
-🔗 linkedin.com/in/szjehuang
+🔗 www.linkedin.com/in/szjehuang    
 💻 https://github.com/Daniel1443
+
